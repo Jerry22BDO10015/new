@@ -5,7 +5,7 @@ public class Addition {
       int num1, num2, sum;
 
       // take two numbers
-      num1 = 10;
+      num1 = 20;
       num2 = 20;
 
       // calculate sum value
